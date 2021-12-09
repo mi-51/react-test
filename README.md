@@ -1,5 +1,5 @@
-# 設定についてはブログにまとめています。
-プロジェクト作成(https://univ-programmer.com/feweek5-1/)
+## 設定についてはブログにまとめています。
+プロジェクト作成(https://univ-programmer.com/feweek5-1/).
 ESLintとPrettierの導入(https://univ-programmer.com/feweek5-2/)
 
 # Getting Started with Create React App
