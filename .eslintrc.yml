@@ -20,5 +20,5 @@ rules:
   {
     react/jsx-filename-extension: [1, { "extensions": [".js", ".jsx"] }],
     react/react-in-jsx-scope: "off",
-    react/prefer-stateless-function: '0'
+    react/prefer-stateless-function: "off"
   }
