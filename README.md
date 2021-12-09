@@ -1,3 +1,7 @@
+# 設定についてはブログにまとめています。
+プロジェクト作成(https://univ-programmer.com/feweek5-1/)
+ESLintとPrettierの導入(https://univ-programmer.com/feweek5-2/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
